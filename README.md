@@ -10,5 +10,5 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)</br>
 
 ## You can locate me at: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Mariqueo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalomariqueo/)
+[![LinkedIn](https://img.shields.io/badge/Gonzalo_Mariqueo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gonzalomariqueo/)
 
