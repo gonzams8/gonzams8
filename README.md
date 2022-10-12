@@ -2,7 +2,7 @@
 
 ### Data analyst making the move to data scientist
 
-#RoadToDataScience
+Here, I'll be posting notebooks I've been working on my learning path towards data science.
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
