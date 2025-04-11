@@ -18,7 +18,7 @@
 
 - 🛠 AI & ML Frameworks: `LangChain`, `LlamaIndex`, `Vector Databases`, `RAG architectures`
 - 🌐 Fullstack Development: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React.js`, `Node.js`
-- ⚙️ Workflow Automation: Automating repetitive tasks using **Make (formerly Integromat)**
+- ⚙️ Workflow Automation: Automating repetitive tasks using `Make (formerly Integromat)`
 - 🧪 Backend Tools: `Streamlit`, `FastAPI`, `VS Code`
 
 ---
