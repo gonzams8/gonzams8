@@ -17,9 +17,13 @@
 ## 📚 Currently Learning
 
 - 🛠 AI & ML Frameworks: `LangChain`, `LlamaIndex`, `Vector Databases`, `RAG architectures`
-- 🌐 Fullstack Development: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React.js`, `Node.js`
-- ⚙️ Workflow Automation: Automating repetitive tasks using `Make (formerly Integromat)`
+- ⚙️ Workflow Automation: Automating repetitive tasks using `Make (formerly Integromat) y n8n`
 - 🧪 Backend Tools: `Streamlit`, `FastAPI`, `VS Code`
+
+---
+
+## 🔜 Up Next on My Learning Journey
+- 🌐 Fullstack Development: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React.js`, `Node.js`
 
 ---
 
